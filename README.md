@@ -53,10 +53,11 @@ Program to design a half subtractor and full subtractor circuit and verify its t
 
 ## Timing diagram 
 ## Half Subtractor:
-![Screenshot 2023-07-27 085322](https://github.com/ezhilnevedha/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/140057992/3cf881ff-bfd5-4792-942d-9be10d78ccad)
+![Screenshot 2023-07-27 184639](https://github.com/ezhilnevedha/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/140057992/5ba49b70-a822-4e07-95bc-f814e204e511)
 
 ## Full Subtractor:
-![Screenshot 2023-07-27 091019](https://github.com/ezhilnevedha/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/140057992/3fc866e8-7675-4523-bf14-ae72dace15cf)
+![Screenshot 2023-07-27 185419](https://github.com/ezhilnevedha/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/140057992/d80521c8-5c23-412e-a209-11af35626178)
+
 
 ## Result:
 Thus the half subtractor and full subtractor circuits are designed and the truth tables is verified using quartus software.
